@@ -1,3 +1,3 @@
 # git-introducao
 
-# Terceira alteração completa.
+# Últimas atualizações feitas de pc remoto.
