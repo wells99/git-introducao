@@ -8,3 +8,7 @@ p{
     font-size: 48px;
     color: blue;
 }
+
+h2,h1{
+    margin-left: 20px;
+}
