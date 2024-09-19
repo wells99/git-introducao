@@ -1,3 +1,7 @@
 # git-introducao
+o que será que acontece com esse texto ?
 
-# Últimas atualizações feitas de pc remoto.
+# Aqui fica um título bem descritivo.
+
+# Site para trinar digitação: https://zty.pe/
+
